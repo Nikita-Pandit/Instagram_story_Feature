@@ -1,1 +1,2 @@
 # Instagram_story_Feature
+This project simulates an Instagram-like story feature where users can view a set of images in a horizontal scroll format. When a user clicks on a profile picture, the corresponding story is displayed in full-screen mode for a few seconds before automatically disappearing. The layout is responsive and styled using CSS and Bootstrap, with the functionality powered by JavaScript. The project demonstrates how to create a dynamic, interactive user interface for a social media-like experience using web technologies.
